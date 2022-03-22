@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenu sur le compte github de Zelcor (Clément LOZE)</h1>
+<h1 align="center">Bienvenue sur le compte github de Zelcor (Clément LOZE)</h1>
 
 <h3 align="center">Un étudiant de 19 ans passionné d'informatique</h3>
 
